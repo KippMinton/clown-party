@@ -47,7 +47,7 @@ mainContainer.addEventListener("click", clickEvent => {
 
         // Make an object out of the user input
         const dataToSendToAPI = {
-            name: userName,
+            parent: userName,
             child: userChild,
             address: userAddress,
             attendees: userAttendees,
