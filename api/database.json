@@ -11,13 +11,22 @@
       "partyHours": 4
     },
     {
-      "name": "Kelly Reed",
+      "parent": "Kelly Reed",
       "child": "Briella",
       "address": "123 somewhere",
-      "attendees": "4",
+      "attendees": "12",
       "partyDate": "2021-06-30",
-      "partyHours": "4",
+      "partyHours": "3",
       "id": 2
+    },
+    {
+      "parent": "Madison Lackey",
+      "child": "Amelia",
+      "address": "444 overhere st",
+      "attendees": "12",
+      "partyDate": "2021-06-19",
+      "partyHours": "3",
+      "id": 3
     }
   ]
 }
